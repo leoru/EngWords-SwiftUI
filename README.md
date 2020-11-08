@@ -28,7 +28,7 @@ Learning supports multiple modes:
 - Realm
 
 ### Maintainers
-- [Kirill Kunst](https://github.com/leoru) ([@kirill_kunst](https://www.facebook.com/kirill.kunst))
+- [Kirill Kunst](https://github.com/leoru) ([@kirill.kunst](https://www.facebook.com/kirill.kunst))
 
 ## License
 
