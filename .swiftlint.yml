@@ -1,0 +1,52 @@
+disabled_rules:
+  - colon
+  - comma
+opt_in_rules:
+  - empty_count
+  - force_cast
+included:
+  - EngWords/Source
+excluded:
+  - EngWords/Resources
+  - EngWords/Vendor
+  - Carthage
+  - Pods
+force_cast: warning
+empty_count: warning
+function_parameter_count:
+  - 10
+  - 12
+cyclomatic_complexity:
+  ignores_case_statements: true
+  warning: 10
+  error: 22
+functional_body_lenght:
+  - 40
+  - 50
+force_try:
+  severity: warning
+line_length:
+  - 140
+  - 300
+type_body_length:
+  - 500
+  - 600
+file_length:
+  warning: 700
+  error: 1200
+type_name:
+  min_length: 3
+  max_length:
+    warning: 50
+  excluded: iPhone
+identifier_name:
+  min_length:
+    error: 3
+  excluded:
+    - id
+    - URL
+    - GlobalAPIKey
+nesting:
+  type_level:
+    warning: 2
+reporter: 'xcode'
