@@ -25,6 +25,7 @@ Learning supports multiple modes:
 - SwiftUI
 - Swift
 - Swift Package Manager
+- Combine
 - Realm
 
 ### Maintainers
@@ -32,4 +33,4 @@ Learning supports multiple modes:
 
 ## License
 
-`EngWords` is available under the MIT license. See the LICENSE file for more info.
+`EngWords` is available under the MIT license.
